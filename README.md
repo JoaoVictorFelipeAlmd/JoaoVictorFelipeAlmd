@@ -2,9 +2,9 @@
 
 ## 🚀 Sobre mim
 * 💻 Atuação: Hoje (21/09/2026) estou na segunda série do ensino médio integrado ao curso técnico de Informática para Internet na **ETEC Padre Carlos Leôncio da Silva** 📍 **Lorena - SP** mas moro em 📍 **Piquete - SP** 
-* 🎯 Foco: Em constante evolução, transformando curiosidade em código e buscando sempre aprender na prática.
+* 🎯 Foco: Em constante evolução — transformando curiosidade em código e buscando sempre aprender na prática.
 
-## 🛠️ Tecnologias & Conteúdos que Aprendo/Estudo
+## 🛠️ Tecnologias & Conteúdos
 
 ### Desenvolvimento Web & Linguagens
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,5 +12,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/Gamemaker-%23000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white)
+
+## 🎨 Hobbies & Outros Interesses
+* 🏐 **Esportes:** Praticar vôlei.
+* 🎨 **Criatividade:** Desenhar e pintar.
+* 🎵 **Música:** Curtir cantar e explorar o lado artístico.
+* 📚 **Estudos:** Aprofundar conhecimentos em História e praticar Inglês.
