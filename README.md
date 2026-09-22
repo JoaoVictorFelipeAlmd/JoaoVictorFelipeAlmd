@@ -14,9 +14,3 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/Gamemaker-%23000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white)
-
-## 🎨 Hobbies & Outros Interesses
-* 🏐 **Esportes:** Praticar vôlei.
-* 🎨 **Criatividade:** Desenhar e pintar.
-* 🎵 **Música:** Curtir cantar e explorar o lado artístico.
-* 📚 **Estudos:** Aprofundar conhecimentos em História e praticar Inglês.
